@@ -1,3 +1,4 @@
+### LEIA-ME
 Esse é um modelo de floresta randômica (random forest) bastante simples que pode ser utilizado para classificar imagens de satélite.
 
 Funciona assim: digamos que você tem 4 classes que quer identificar na imagem. Então você deve criar um shapefile para cada classe e delinear, com base na imagem de satélite, regiões de interesse (podem ser, por exemplo, tipos de florestas).
