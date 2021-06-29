@@ -9,4 +9,4 @@ Por fim, é só rodar o script.
 
 O algoritmo vai importar os arquivos, fazer a extração de características, gerar o modelo RF, plotar a importância das bandas da sua imagem de satélite (dada pelo Índice de Gini), mostrar a matriz de confusão e calcular o índice Kappa. No final, vai aplicar o modelo no raster utilizado, e exportar um raster classificado.
 
-Esse algoritmo foi desenvolvido com muita ajuda de Enzo Crisigiovanni, Doutor em Ciências Agrárias.
+O algoritmo-base foi desenvolvido por Enzo Crisigiovanni, Doutor em Ciências Agrárias que me auxiliou muito nas adaptações. Fica aqui meu agradecimento a ele.
